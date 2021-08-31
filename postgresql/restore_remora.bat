@@ -1,0 +1,1 @@
+"C:\Program Files\PostgreSQL\11\bin\pg_restore.exe" --clean --host "localhost" --port "5432" --username "postgres" --password --dbname "postgres" --verbose "C:\Users\fredm\OneDrive\trades\bkp_remora.sql"

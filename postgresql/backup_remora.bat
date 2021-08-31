@@ -1,0 +1,1 @@
+"C:\Program Files\PostgreSQL\10\bin\pg_dump.exe" --file "C:\onedrive\trades\bkp_remora.sql" --host "localhost" --port "5432" --username "remora" --password --verbose --format=c --blobs --schema "remora" "postgres"
